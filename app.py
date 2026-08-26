@@ -53,7 +53,7 @@ def _get_config(key: str, default: str = "") -> str:
 
 
 GEMINI_API_KEY = _get_config("GEMINI_API_KEY", "")
-GEMINI_MODEL = _get_config("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = _get_config("GEMINI_MODEL", "gemini-3.6-flash")
 
 # Upload / API robustness limits
 MAX_UPLOAD_MB = 8
