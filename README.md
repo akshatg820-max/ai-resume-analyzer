@@ -120,10 +120,36 @@ The dashboard uses a modern visual system combining:
 
 ```text
 AI-Resume-Analyzer/
-│
 ├── app.py
-├── app_backup.py
-├── app_stable_v1.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
+└── screenshots/
+    ├── dashboard.png
+    ├── intelligence-overview.png
+    ├── ats-score.png
+    ├── skills.png
+    └── improvement-center.png
+---
+
+## 📸 Screenshots
+
+### Resume Upload & Dashboard
+
+![Resume Dashboard](screenshots/dashboard.png)
+
+### Intelligence Overview
+
+![Intelligence Overview](screenshots/intelligence-overview.png)
+
+### ATS Compatibility
+
+![ATS Compatibility](screenshots/ats-score.png)
+
+### Skills & Resume Structure
+
+![Skills Detection](screenshots/skills.png)
+
+### Improvement Center
+
+![Improvement Center](screenshots/improvement-center.png)
